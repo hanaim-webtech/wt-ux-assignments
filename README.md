@@ -1,3 +1,3 @@
 # WTUX Opdrachten
 
-Template voor studenten om opdrachten in te maken.
+Dit is de repository waar je voor WTUX al je opdrachten in gaat maken.
